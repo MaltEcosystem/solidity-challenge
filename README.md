@@ -17,7 +17,8 @@ Here is a selection of user stories:
 **Bonus points if you write a suite of tests for the new code**
 
 ## Deliverables
-* Fork this repo into your own **PRIVATE** repo. Do the work in this private repo so your challenge implementation isn't discoverable online.
+* Clone this repo locally
+* Create a new **PRIVATE** repo. Do the work in this private repo so your challenge implementation isn't discoverable online.
 * Add `0xScotch` to the repo
 * When you are done inform Scotch that you are finished and the Malt team will look over your work.
 
