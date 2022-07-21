@@ -16,6 +16,11 @@ Here is a selection of user stories:
 
 **Bonus points if you write a suite of tests for the new code**
 
+## Deliverables
+* Fork this repo into your own **PRIVATE** repo. Do the work in this private repo so your challenge implementation isn't discoverable online.
+* Add `0xScotch` to the repo
+* When you are done inform Scotch that you are finished and the Malt team will look over your work.
+
 ## Notes
 * The challenge is deliberately left somewhat ambigous to allow for your own creativity to play a role in the challenge. There is no one single correct way to achieve the goals of the challenge.
 * You are free to make any choices you want. You can install new libraries, write new contracts, change existing contracts or whatever else you want to do to implement the required features.
